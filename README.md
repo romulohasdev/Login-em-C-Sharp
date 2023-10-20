@@ -1,5 +1,5 @@
-# Calculadora-C-Sharp
-- Projeto realizado por Rômulo Henrique
+# Login em C Sharp
+- Projeto realizado por RÃ´mulo Henrique
 
 ## Tecnologia utilizada
 - Visual Code
@@ -9,4 +9,4 @@
 - Git Hub
 
 ## Finalidade
-- Esse projeto marca o início de uma caminhada pela Linguagem C#, um desafio criado por Oswaldo Oliveira para me ajudar dar os primeiros passos na carreira de Dev
+- Esse projeto marca o inÃ­cio de uma caminhada pela Linguagem C#, um desafio criado por Oswaldo Oliveira para me ajudar dar os primeiros passos na carreira de Dev
