@@ -1,0 +1,14 @@
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\bin\Debug\net6.0\Login em C Sharp.exe
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\bin\Debug\net6.0\Login em C Sharp.deps.json
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\bin\Debug\net6.0\Login em C Sharp.runtimeconfig.json
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\bin\Debug\net6.0\Login em C Sharp.dll
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\bin\Debug\net6.0\Login em C Sharp.pdb
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\Login em C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\Login em C Sharp.AssemblyInfoInputs.cache
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\Login em C Sharp.AssemblyInfo.cs
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\Login em C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\Login em C Sharp.dll
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\refint\Login em C Sharp.dll
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\Login em C Sharp.pdb
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\Login em C Sharp.genruntimeconfig.cache
+C:\Users\Usuário-\source\repos\Login em C Sharp\Login em C Sharp\obj\Debug\net6.0\ref\Login em C Sharp.dll
